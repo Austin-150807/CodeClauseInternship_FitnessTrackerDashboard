@@ -73,7 +73,7 @@ This **Fitness Tracker Web App** enables users to:
 
 **Austin S**  
 📧 [austin.150807@gmail.com]  
-🔗 [GitHub Profile](https://github.com/your-username)  
+🔗 [GitHub Profile]([https://github.com/Austin-150807])  
 💼 **CodeClause Internship – Web Development Intern (October 2025)**  
 
 ---
